@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Yuan Xue
 
 You can use the [editor on GitHub](https://github.com/yuanxuecs/yuanxuecs.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
+```
+09/2021-06/2023            New York University                                  New York City, NY     Master of Science in Management of Technology    
+09/2018-12/2020	           University of California, Santa Barbara					   	Santa Barbara, CA     Bachelor of Science in Computer Science				
+Courses Highlight	Applied Stochastic Processes | Statistics | Computer Architecture | Computer Science Project | Mobile Application Development | Transforming Programming Language| Operate System | Computer Graphics | Machine Learning | Computer Communication Networks | Macroeconomics [UCI] (coursera) 
+07/2015-06/2018	           De Anza College											   		          Cupertino, CA         Major in Computer Science										
+Courses Highlight	X86 processing assembly language | Discrete Mathematics | Data Structure | Object Oriented Analyze and Design | Linear Algebra | Physics | Differential Equations | Microeconomics | Accounting 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+
 
 ```markdown
 Syntax highlighted code block
